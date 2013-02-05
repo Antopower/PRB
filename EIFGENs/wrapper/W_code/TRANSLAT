@@ -1,0 +1,8 @@
+wrapper	APPLICATION	make	F837_6523	C1\ap837.c
+wrapper	SDL_WRAPPER	sdl_init	F838_6524	C1\sd838.c
+wrapper	SDL_WRAPPER	sdl_loadbmp	F838_6525	C1\sd838.c
+wrapper	SDL_WRAPPER	sdl_setvideomode	F838_6526	C1\sd838.c
+wrapper	SDL_WRAPPER	sdl_blitsurface	F838_6527	C1\sd838.c
+wrapper	SDL_WRAPPER	sdl_flip	F838_6528	C1\sd838.c
+wrapper	SDL_WRAPPER	sdl_delay	F838_6529	C1\sd838.c
+wrapper	APPLICATION	make	F837_6523	C1\ap837.c
